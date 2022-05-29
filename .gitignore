@@ -1,0 +1,3 @@
+# will create a new node folder on heroku or git 
+node_modules 
+.env
